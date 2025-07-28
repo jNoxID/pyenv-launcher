@@ -41,14 +41,14 @@ Suivez les instructions interactives affichées dans le terminal :
 1. Cloner le dépôt ou copier le script sur votre machine :
 
    ```bash
-   git clone https://github.com/jNoxID/_LinuxToolsBox.git
+   git clone https://github.com/jNoxID/pyenv-launcher.git
    cd CreaPyEnv
    ```
 
 ## 👨‍💼 Auteurs
 
-- \[n30tc/&\_n0X]
+- Jérôme Pointreau
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est sous licence GPL-3.0-only. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
