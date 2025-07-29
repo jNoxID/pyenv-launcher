@@ -17,6 +17,7 @@ Ce projet propose un script Bash simple et interactif pour automatiser la gestio
 ## 🚀 Utilisation
 
 ```bash
+cd scripts
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -42,7 +43,6 @@ Suivez les instructions interactives affichées dans le terminal :
 
    ```bash
    git clone https://github.com/jNoxID/pyenv-launcher.git
-   cd CreaPyEnv
    ```
 
 ## 👨‍💼 Auteurs
