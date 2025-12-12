@@ -45,10 +45,14 @@ Suivez les instructions interactives affichées dans le terminal :
    git clone https://github.com/jNoxID/pyenv-launcher.git
    ```
 
-## 👨‍💼 Auteurs
+## 👨‍💼 Auteur(s)
 
 - Jérôme Pointreau
 
-## 📄 Licence
+### 📄 Licence
 
-Ce projet est sous licence GPL-3.0-only. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est sous licence GPL-3.0-only. Voir le fichier [LICENSE](LICENSE) pour plus d'informations
+
+#### Created,, by:: n0X\_ aka NEO_the-code && neoXidia... (!!!)
+
+> > > https://borntoweb.com https://pixeltoprod.fr
